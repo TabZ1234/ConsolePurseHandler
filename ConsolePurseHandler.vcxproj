@@ -32,6 +32,12 @@
     <ClCompile Include="PurseHandlerData.cpp" />
     <ClCompile Include="stdafx.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ConsolePurseHandler.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="14563106902020.ico" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
